@@ -160,8 +160,8 @@ die();
 <section>
 	    <div class="footer">
             <div style="align-self: center; position: fixed; left: 5px;" align="left">Copyright &copy; 2019 - 2020 <a href="http://<?php echo $name; ?>.de/" style="display: inline-block; position: relative"><?php echo $name; ?></a></div>
-            <div style="align-self: center; right: 5px" align="center">TeamSpeak Server Creator (<?php echo $version; ?>) by Noawin(NicoB.)</div>
-			<div style="align-self: center; right: 5px" align="center">Open Source auf <a href="https://forum.teaspeak.de/index.php?threads/simpel-server-creator-skript-lang-de.2023/" >Teaspeak.de</a></div>
+            <div style="align-self: center; right: 5px" align="center">TeamSpeak Server Creator (<?php echo $version; ?>) by Noawinzp(NicoB.)</div>
+			<div style="align-self: center; right: 5px" align="center">Open Source auf <a href="https://github.com/noawinzp/Simpel-Server-Creator-Skript" >Githup</a></div>
         </div>
 			</section>
 	</body>
